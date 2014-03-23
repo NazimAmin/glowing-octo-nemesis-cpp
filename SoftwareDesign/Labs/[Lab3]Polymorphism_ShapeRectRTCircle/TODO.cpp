@@ -87,7 +87,7 @@ void Circle::resize(add parameters and missing code)
 }
 
 
-*4:*
+
 // override all virtual functions from Shape class
 // Rectangle.h
 // Contains the declaration (but not the definition!) of the Rectangle class,
