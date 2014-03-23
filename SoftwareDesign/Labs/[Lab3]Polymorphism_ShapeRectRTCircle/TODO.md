@@ -1,4 +1,3 @@
-
 Below you have the abstract class Shape with two private data members positionX and
 positionY of double type. Write the definitions of the member functions of class Shape
 and derived classes where required. Create a driver program following the given
@@ -27,7 +26,6 @@ double positionX;
 double positionY;
 };
 #endif // SHAPE_H
-
 
 // Shape.cpp
 // Contains the definitions of Shape's methods.
